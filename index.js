@@ -8,3 +8,9 @@ function theBeatlesPLay (musicians, intruments){
   return array
 }
 
+function johnLennonFacts (facts){
+  let factArray = []
+  while (facts.length){
+    factArray.push (`)
+  }
+}
